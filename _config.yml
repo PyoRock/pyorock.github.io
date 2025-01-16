@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Pyoga # the main title
+title: PyoRock # the main title
 
-tagline: my personal blog # it will display as the subtitle
+tagline: Empowering Futures # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog, Github, Machine Learning, Python, ABAP
