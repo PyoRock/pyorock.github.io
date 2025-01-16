@@ -1,5 +1,9 @@
 #  The contact options.
 
+- type: Facebook
+  icon: "fab fa-facebook-square"
+  url: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+
 - type: github
   icon: "fab fa-github"
 
