@@ -1,26 +1,18 @@
 #  The contact options.
 
-#- type: Facebook
-#  icon: "fab fa-facebook-square"
-#  url: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+- type: github
+  icon: "fab fa-github"
 
-#- type: github
-#  icon: "fab fa-github"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
-#- type: instagram
-#  icon: "fa-brands fa-instagram"
-#  url : 'https://www.instagram.com/'
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
 
-#- type: twitter
-#  icon: "fa-brands fa-x-twitter"
-
-#- type: email
-#  icon: "fas fa-envelope"
-#  noblank: true # open link in current tab
-
-#- type: rss
-#  icon: "fas fa-rss"
-#  noblank: true
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
