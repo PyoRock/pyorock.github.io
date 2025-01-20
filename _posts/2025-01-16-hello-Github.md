@@ -8,7 +8,7 @@ tag: [Github]
 
 ---
 
-# Hello Github
+# Posting Test
 
 This is my first posting. 
 
