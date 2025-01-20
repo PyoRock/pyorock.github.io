@@ -3,21 +3,54 @@
 
 platforms:
 
-  - type: Facebook
-    icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+- type: Facebook
+  icon: "fab fa-facebook-square"
+  url: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
 
-  - type: github
-    icon: "fab fa-github"
-    link: https://pyorock.github.io/
+- type: github
+  icon: "fab fa-github"
 
-  - type: instagram
-    icon: "fa-brands fa-instagram"
-    link: 'https://www.instagram.com/'
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url : 'https://www.instagram.com/'
 
-  - type: email
-    icon: "fas fa-envelope"
-    noblank: true # open link in current tab
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+  # - type: Facebook
+  #  icon: "fab fa-facebook-square"
+  #  link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+
+  #- type: Linkedin
+  #  icon: "fab fa-linkedin"
+  #  link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+
+  # - type: Twitter
+  #   icon: "fa-brands fa-square-x-twitter"
+  #   link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+
+  # - type: Facebook
+  #   icon: "fab fa-facebook-square"
+  #   link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+  # - type: Telegram
+  #   icon: "fab fa-telegram"
+  #   link: "https://t.me/share/url?url=URL&text=TITLE"
+  
+ # - type: github
+ #   icon: "fab fa-github"
+ #   link: https://pyorock.github.io/
+
+ # - type: instagram
+ #   icon: "fa-brands fa-instagram"
+ #   link: 'https://www.instagram.com/'
+
+ # - type: email
+ #   icon: "fas fa-envelope"
+ #   noblank: true # open link in current tab
 
   # Uncomment below if you need to.
   #
